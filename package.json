@@ -1,8 +1,8 @@
 {
-  "name": "ruoyi",
+  "name": "RedBook",
   "version": "3.8.3",
-  "description": "若依管理系统",
-  "author": "若依",
+  "description": "小红书管理系统",
+  "author": "冯博",
   "license": "MIT",
   "scripts": {
     "dev": "vue-cli-service serve",
